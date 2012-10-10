@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+SimpleDVR.egg-info/PKG-INFO
+SimpleDVR.egg-info/SOURCES.txt
+SimpleDVR.egg-info/dependency_links.txt
+SimpleDVR.egg-info/entry_points.txt
+SimpleDVR.egg-info/not-zip-safe
+SimpleDVR.egg-info/requires.txt
+SimpleDVR.egg-info/top_level.txt
+simpledvr/__init__.py
+simpledvr/plugins/__init__.py
